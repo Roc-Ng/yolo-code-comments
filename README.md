@@ -17,9 +17,7 @@ YOLO将之前常用的分类问题改为回归问题，将原来的two-stage变�
 
 先上图，可以看一下这个[链接](https://blog.csdn.net/Mrhiuser/article/details/52672824)
 
- ![](C:\Users\JingGroup\Pictures\im2col.png)
-
-
+ ![im2col](https://github.com/Roc-Ng/yolo-code-comments/blob/master/im2col.png)
 
 
 
