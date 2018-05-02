@@ -17,7 +17,9 @@ YOLO将之前常用的分类问题改为回归问题，将原来的two-stage变�
 
 先上图，可以看一下这个[链接](https://blog.csdn.net/Mrhiuser/article/details/52672824)
 
-![img](file:///C:\Users\JingGroup\Documents\Tencent Files\171788284\Image\C2C\D$FN7(`CQR(])HEES7S3O6O.png) 
+ ![](C:\Users\JingGroup\Pictures\im2col.png)
+
+
 
 
 
