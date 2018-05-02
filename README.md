@@ -17,7 +17,9 @@ YOLO将之前常用的分类问题改为回归问题，将原来的two-stage变�
 
 先上图，可以看一下这个[链接](https://blog.csdn.net/Mrhiuser/article/details/52672824)
 
-![QQ图片20180502160940](C:\Users\Roc-Ng\Desktop\QQ图片20180502160940.png)
+![img](file:///C:\Users\JingGroup\Documents\Tencent Files\171788284\Image\C2C\D$FN7(`CQR(])HEES7S3O6O.png) 
+
+
 
 - **detection_layer.c** 这个是yolo_v1里面最核心的，计算损失函数
 - **dropout_layer.c**
